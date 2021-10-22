@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Taks todo
 
-Things you may want to cover:
+- Create encode end decode url. (done?)
+- Create crawls (doing)
+- Create Model to storage de url and title
+- Create route to get url to sortened.
+- Create route to redirect.
+- Create route Show top 100.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
